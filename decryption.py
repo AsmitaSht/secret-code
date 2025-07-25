@@ -14,4 +14,4 @@ for i in txt.split():
     r=decry(i)
     m.append(r)
 msg=' '.join(m)
-print("The encrpted msg is ",msg)
+print("The decrpted msg is ",msg)
