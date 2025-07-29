@@ -16,18 +16,3 @@ for i in txt.split():
 msg=' '.join(m)
 print("The decrpted msg is ",msg)
 
-'''another'''
-# st=input("Enter msg:")
-# words=st.split(" ")
-# coding=True
-# if(coding):
-#     n=[]
-#     for word in words:
-#         if(len(word)>=3):
-#             st=word[3:-3]
-#             st=st[-1]+st[:-1]
-#             n.append(st)
-
-#         else:
-#             n.append(word[::-1]) #reverse
-# print(" ".join(n))
