@@ -24,3 +24,21 @@ for i in txt.split():
 msg=' '.join(m)
 print("The encrpted msg is ",msg)
 
+
+
+# '''another'''
+# st=input("Enter msg:")
+# words=st.split(" ")
+# coding=True
+# if(coding):
+#     n=[]
+#     for word in words:
+#         if(len(word)>=3):
+#             r1="asd"
+#             r2="bcd"
+#             st=r1+word[1:]+word[0]+r2
+#             n.append(st)
+
+#         else:
+#             n.append(word[::-1]) #reverse
+# print(" ".join(n))
